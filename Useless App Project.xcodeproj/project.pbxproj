@@ -14,6 +14,8 @@
 		B2513AB81DD94B1F009EED88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2513AB71DD94B1F009EED88 /* Assets.xcassets */; };
 		B2513ABB1DD94B1F009EED88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2513AB91DD94B1F009EED88 /* LaunchScreen.storyboard */; };
 		B2513AC61DD94B20009EED88 /* Useless_App_ProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2513AC51DD94B20009EED88 /* Useless_App_ProjectTests.swift */; };
+		B2513AD11DD94D8F009EED88 /* ShakingTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2513AD01DD94D8F009EED88 /* ShakingTextField.swift */; };
+		B2513AD31DD95083009EED88 /* pulsing.swift in Sources */ = {isa = PBXBuildFile; fileRef = B2513AD21DD95083009EED88 /* pulsing.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +40,8 @@
 		B2513AC11DD94B20009EED88 /* Useless App ProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Useless App ProjectTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2513AC51DD94B20009EED88 /* Useless_App_ProjectTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Useless_App_ProjectTests.swift; sourceTree = "<group>"; };
 		B2513AC71DD94B20009EED88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2513AD01DD94D8F009EED88 /* ShakingTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ShakingTextField.swift; sourceTree = "<group>"; };
+		B2513AD21DD95083009EED88 /* pulsing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pulsing.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +85,8 @@
 			children = (
 				B2513AAD1DD94B1F009EED88 /* AppDelegate.swift */,
 				B2513AAF1DD94B1F009EED88 /* ViewController.swift */,
+				B2513AD01DD94D8F009EED88 /* ShakingTextField.swift */,
+				B2513AD21DD95083009EED88 /* pulsing.swift */,
 				B2513AB11DD94B1F009EED88 /* Main.storyboard */,
 				B2513AB71DD94B1F009EED88 /* Assets.xcassets */,
 				B2513AB91DD94B1F009EED88 /* LaunchScreen.storyboard */,
@@ -207,6 +213,8 @@
 				B2513AB61DD94B1F009EED88 /* Useless_App_Project.xcdatamodeld in Sources */,
 				B2513AB01DD94B1F009EED88 /* ViewController.swift in Sources */,
 				B2513AAE1DD94B1F009EED88 /* AppDelegate.swift in Sources */,
+				B2513AD11DD94D8F009EED88 /* ShakingTextField.swift in Sources */,
+				B2513AD31DD95083009EED88 /* pulsing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
